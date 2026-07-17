@@ -1,0 +1,9 @@
+{
+  "name": "나는 솔로 관계 분석",
+  "short_name": "관계분석",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f8fb",
+  "theme_color": "#2563eb",
+  "icons": []
+}

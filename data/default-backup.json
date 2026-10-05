@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-17T12:13:16.555Z",
+  "exportedAt": "2026-10-05T13:25:19.905Z",
   "seasons": [
     {
       "id": "season-29",
@@ -5531,7 +5531,7 @@
       "id": "season-33",
       "seasonNo": 33,
       "title": "나는 솔로 33기",
-      "maxDay": 4,
+      "maxDay": 6,
       "status": "draft",
       "participants": [
         {
@@ -5541,8 +5541,8 @@
           "gender": "male",
           "nodeColor": "#0ea5e9",
           "position": {
-            "x": 707.3598031538112,
-            "y": 448.4910171411709
+            "x": 500,
+            "y": 30
           },
           "active": true,
           "sortOrder": 0,
@@ -5556,8 +5556,8 @@
           "gender": "male",
           "nodeColor": "#0ea5e9",
           "position": {
-            "x": 650.3177978028318,
-            "y": 235.43489713638888
+            "x": 627.5,
+            "y": 64.16352203496814
           },
           "active": true,
           "sortOrder": 1,
@@ -5571,8 +5571,8 @@
           "gender": "male",
           "nodeColor": "#0ea5e9",
           "position": {
-            "x": 490.4632120026291,
-            "y": 289.1443371667271
+            "x": 720.8364779650318,
+            "y": 157.5
           },
           "active": true,
           "sortOrder": 2,
@@ -5586,8 +5586,8 @@
           "gender": "male",
           "nodeColor": "#0ea5e9",
           "position": {
-            "x": 305.02537553225545,
-            "y": 193.29166679675407
+            "x": 755,
+            "y": 285
           },
           "active": true,
           "sortOrder": 3,
@@ -5601,8 +5601,8 @@
           "gender": "male",
           "nodeColor": "#0ea5e9",
           "position": {
-            "x": 339.5726047320475,
-            "y": 420.8167505000751
+            "x": 720.8364779650319,
+            "y": 412.49999999999994
           },
           "active": true,
           "sortOrder": 4,
@@ -5616,8 +5616,8 @@
           "gender": "male",
           "nodeColor": "#0ea5e9",
           "position": {
-            "x": 583.3456794980319,
-            "y": 125.87431814197973
+            "x": 627.5,
+            "y": 505.83647796503186
           },
           "active": true,
           "sortOrder": 5,
@@ -5631,8 +5631,8 @@
           "gender": "female",
           "nodeColor": "#f43f8b",
           "position": {
-            "x": 465.03012645959285,
-            "y": 423.14252764651417
+            "x": 500,
+            "y": 540
           },
           "active": true,
           "sortOrder": 6,
@@ -5646,8 +5646,8 @@
           "gender": "female",
           "nodeColor": "#f43f8b",
           "position": {
-            "x": 451.74129879883344,
-            "y": 62.16576170081822
+            "x": 372.50000000000006,
+            "y": 505.83647796503186
           },
           "active": true,
           "sortOrder": 7,
@@ -5660,8 +5660,8 @@
           "gender": "female",
           "nodeColor": "#f43f8b",
           "position": {
-            "x": 606.3040892713018,
-            "y": 345.9823737022782
+            "x": 279.1635220349682,
+            "y": 412.5000000000001
           },
           "active": true,
           "sortOrder": 8,
@@ -5674,8 +5674,8 @@
           "gender": "female",
           "nodeColor": "#f43f8b",
           "position": {
-            "x": 529.4449144585882,
-            "y": 199.140152554043
+            "x": 245,
+            "y": 285.00000000000006
           },
           "active": true,
           "sortOrder": 9,
@@ -5688,8 +5688,8 @@
           "gender": "female",
           "nodeColor": "#f43f8b",
           "position": {
-            "x": 407.1176232542616,
-            "y": 207.44219561948822
+            "x": 279.1635220349682,
+            "y": 157.49999999999997
           },
           "active": true,
           "sortOrder": 10,
@@ -5702,8 +5702,8 @@
           "gender": "female",
           "nodeColor": "#f43f8b",
           "position": {
-            "x": 721.290424948279,
-            "y": 155.50514908155407
+            "x": 372.4999999999999,
+            "y": 64.16352203496822
           },
           "active": true,
           "sortOrder": 11,
@@ -5712,7 +5712,7 @@
       ],
       "selectionTypes": [
         {
-          "id": "season33-type-mu5hpt7g-tj9mns",
+          "id": "season33-type-muva7l9p-ghddo2",
           "seasonNo": 33,
           "name": "첫인상",
           "defaultScore": 1,
@@ -5723,7 +5723,7 @@
           "isFinalSelection": false
         },
         {
-          "id": "season33-type-mu5hpt7g-2ag4l0",
+          "id": "season33-type-muva7l9p-yg2a4k",
           "seasonNo": 33,
           "name": "여자선택",
           "defaultScore": 2,
@@ -5734,7 +5734,7 @@
           "isFinalSelection": false
         },
         {
-          "id": "season33-type-mu5hpt7g-zbvwcx",
+          "id": "season33-type-muva7l9p-v829m3",
           "seasonNo": 33,
           "name": "남자마음",
           "defaultScore": 1,
@@ -5745,7 +5745,7 @@
           "isFinalSelection": false
         },
         {
-          "id": "season33-type-mu5hpt7g-hkxfx5",
+          "id": "season33-type-muva7l9p-otwsun",
           "seasonNo": 33,
           "name": "랜덤데이트",
           "defaultScore": 0,
@@ -5756,7 +5756,7 @@
           "isFinalSelection": false
         },
         {
-          "id": "season33-type-mu5hpt7g-h9atue",
+          "id": "season33-type-muva7l9p-8vxdi7",
           "seasonNo": 33,
           "name": "남자선택",
           "defaultScore": 2,
@@ -5767,7 +5767,7 @@
           "isFinalSelection": false
         },
         {
-          "id": "season33-type-mu5hpt7g-89j13f",
+          "id": "season33-type-muva7l9p-kq08ai",
           "seasonNo": 33,
           "name": "여자마음",
           "defaultScore": 1,
@@ -5776,919 +5776,1144 @@
           "lineStyle": "solid",
           "includeInScore": true,
           "isFinalSelection": false
+        },
+        {
+          "id": "season33-type-muva7l9p-vmb3fj",
+          "seasonNo": 33,
+          "name": "슈퍼데이트(남)",
+          "defaultScore": 3,
+          "actualDate": true,
+          "visibleSelection": true,
+          "lineStyle": "solid",
+          "includeInScore": true,
+          "isFinalSelection": false
+        },
+        {
+          "id": "season33-type-muva7l9p-muq1bj",
+          "seasonNo": 33,
+          "name": "슈퍼데이트(녀)",
+          "defaultScore": 3,
+          "actualDate": true,
+          "visibleSelection": true,
+          "lineStyle": "solid",
+          "includeInScore": true,
+          "isFinalSelection": false
+        },
+        {
+          "id": "season33-type-muva7l9p-32a91z",
+          "seasonNo": 33,
+          "name": "최종선택",
+          "defaultScore": 4,
+          "actualDate": true,
+          "visibleSelection": true,
+          "lineStyle": "dashed",
+          "includeInScore": true,
+          "isFinalSelection": true
         }
       ],
       "selections": [
         {
-          "id": "import-1-2-1-mu5hpt7g-d19yfa",
+          "id": "import-1-2-1-muva7l9p-t47fuz",
           "seasonNo": 33,
           "day": 1,
           "order": 1,
-          "selectionTypeId": "season33-type-mu5hpt7g-tj9mns",
+          "selectionTypeId": "season33-type-muva7l9p-ghddo2",
           "fromParticipantId": "season33-영수",
           "toParticipantId": "season33-영숙",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-1-4-1-mu5hpt7g-5kuwsf",
+          "id": "import-1-4-1-muva7l9p-za7muu",
           "seasonNo": 33,
           "day": 2,
           "order": 3,
-          "selectionTypeId": "season33-type-mu5hpt7g-zbvwcx",
+          "selectionTypeId": "season33-type-muva7l9p-v829m3",
           "fromParticipantId": "season33-영수",
           "toParticipantId": "season33-영숙",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-1-5-1-mu5hpt7g-n291dc",
+          "id": "import-1-5-1-muva7l9p-wc0j4u",
           "seasonNo": 33,
           "day": 3,
           "order": 4,
-          "selectionTypeId": "season33-type-mu5hpt7g-hkxfx5",
+          "selectionTypeId": "season33-type-muva7l9p-otwsun",
           "fromParticipantId": "season33-영수",
           "toParticipantId": "season33-순자",
           "score": 0,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-1-6-1-mu5hpt7g-tkbwg1",
+          "id": "import-1-6-1-muva7l9p-6a58es",
           "seasonNo": 33,
           "day": 3,
           "order": 5,
-          "selectionTypeId": "season33-type-mu5hpt7g-h9atue",
+          "selectionTypeId": "season33-type-muva7l9p-8vxdi7",
           "fromParticipantId": "season33-영수",
           "toParticipantId": "season33-순자",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-1-8-1-mu5hpt7g-1e54no",
+          "id": "import-1-8-1-muva7l9p-gryymb",
           "seasonNo": 33,
           "day": 4,
           "order": 7,
-          "selectionTypeId": "season33-type-mu5hpt7g-h9atue",
+          "selectionTypeId": "season33-type-muva7l9p-8vxdi7",
           "fromParticipantId": "season33-영수",
           "toParticipantId": "season33-옥순",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-2-2-1-mu5hpt7g-unen17",
+          "id": "import-1-12-1-muva7l9p-285yaf",
+          "seasonNo": 33,
+          "day": 6,
+          "order": 11,
+          "selectionTypeId": "season33-type-muva7l9p-32a91z",
+          "fromParticipantId": "season33-영수",
+          "toParticipantId": "season33-현숙",
+          "score": 4,
+          "actualDate": true,
+          "status": "confirmed",
+          "note": "",
+          "createdAt": "2026-10-05T13:24:41.965Z"
+        },
+        {
+          "id": "import-2-2-1-muva7l9p-kwcm6q",
           "seasonNo": 33,
           "day": 1,
           "order": 1,
-          "selectionTypeId": "season33-type-mu5hpt7g-tj9mns",
+          "selectionTypeId": "season33-type-muva7l9p-ghddo2",
           "fromParticipantId": "season33-영호",
           "toParticipantId": "season33-순자",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-2-4-1-mu5hpt7g-urn6fb",
+          "id": "import-2-4-1-muva7l9p-313di6",
           "seasonNo": 33,
           "day": 2,
           "order": 3,
-          "selectionTypeId": "season33-type-mu5hpt7g-zbvwcx",
+          "selectionTypeId": "season33-type-muva7l9p-v829m3",
           "fromParticipantId": "season33-영호",
           "toParticipantId": "season33-순자",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-2-5-1-mu5hpt7g-rqev6r",
+          "id": "import-2-5-1-muva7l9p-848tj0",
           "seasonNo": 33,
           "day": 3,
           "order": 4,
-          "selectionTypeId": "season33-type-mu5hpt7g-hkxfx5",
+          "selectionTypeId": "season33-type-muva7l9p-otwsun",
           "fromParticipantId": "season33-영호",
           "toParticipantId": "season33-옥순",
           "score": 0,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-2-6-1-mu5hpt7g-o6f07e",
+          "id": "import-2-6-1-muva7l9p-i5cw88",
           "seasonNo": 33,
           "day": 3,
           "order": 5,
-          "selectionTypeId": "season33-type-mu5hpt7g-h9atue",
+          "selectionTypeId": "season33-type-muva7l9p-8vxdi7",
           "fromParticipantId": "season33-영호",
           "toParticipantId": "season33-순자",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-2-8-1-mu5hpt7g-sbsk2u",
+          "id": "import-2-8-1-muva7l9p-jt28fr",
           "seasonNo": 33,
           "day": 4,
           "order": 7,
-          "selectionTypeId": "season33-type-mu5hpt7g-h9atue",
+          "selectionTypeId": "season33-type-muva7l9p-8vxdi7",
           "fromParticipantId": "season33-영호",
           "toParticipantId": "season33-순자",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-3-2-1-mu5hpt7g-kxk2z7",
+          "id": "import-2-12-1-muva7l9p-1j5222",
+          "seasonNo": 33,
+          "day": 6,
+          "order": 11,
+          "selectionTypeId": "season33-type-muva7l9p-32a91z",
+          "fromParticipantId": "season33-영호",
+          "toParticipantId": "season33-순자",
+          "score": 4,
+          "actualDate": true,
+          "status": "confirmed",
+          "note": "",
+          "createdAt": "2026-10-05T13:24:41.965Z"
+        },
+        {
+          "id": "import-3-2-1-muva7l9p-tq3l2b",
           "seasonNo": 33,
           "day": 1,
           "order": 1,
-          "selectionTypeId": "season33-type-mu5hpt7g-tj9mns",
+          "selectionTypeId": "season33-type-muva7l9p-ghddo2",
           "fromParticipantId": "season33-영식",
           "toParticipantId": "season33-영자",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-3-4-1-mu5hpt7g-vymck7",
+          "id": "import-3-4-1-muva7l9p-4r9rfr",
           "seasonNo": 33,
           "day": 2,
           "order": 3,
-          "selectionTypeId": "season33-type-mu5hpt7g-zbvwcx",
+          "selectionTypeId": "season33-type-muva7l9p-v829m3",
           "fromParticipantId": "season33-영식",
           "toParticipantId": "season33-영자",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-3-5-1-mu5hpt7g-prsdih",
+          "id": "import-3-5-1-muva7l9p-83imq3",
           "seasonNo": 33,
           "day": 3,
           "order": 4,
-          "selectionTypeId": "season33-type-mu5hpt7g-hkxfx5",
+          "selectionTypeId": "season33-type-muva7l9p-otwsun",
           "fromParticipantId": "season33-영식",
           "toParticipantId": "season33-영자",
           "score": 0,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-3-6-1-mu5hpt7g-xflgfp",
+          "id": "import-3-6-1-muva7l9p-jx1wxa",
           "seasonNo": 33,
           "day": 3,
           "order": 5,
-          "selectionTypeId": "season33-type-mu5hpt7g-h9atue",
+          "selectionTypeId": "season33-type-muva7l9p-8vxdi7",
           "fromParticipantId": "season33-영식",
           "toParticipantId": "season33-영자",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-3-8-1-mu5hpt7g-eoosjv",
+          "id": "import-3-8-1-muva7l9p-cvwafl",
           "seasonNo": 33,
           "day": 4,
           "order": 7,
-          "selectionTypeId": "season33-type-mu5hpt7g-h9atue",
+          "selectionTypeId": "season33-type-muva7l9p-8vxdi7",
           "fromParticipantId": "season33-영식",
           "toParticipantId": "season33-영숙",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-4-2-1-mu5hpt7g-rky0mi",
+          "id": "import-3-12-1-muva7l9p-9qjln6",
+          "seasonNo": 33,
+          "day": 6,
+          "order": 11,
+          "selectionTypeId": "season33-type-muva7l9p-32a91z",
+          "fromParticipantId": "season33-영식",
+          "toParticipantId": "season33-영숙",
+          "score": 4,
+          "actualDate": true,
+          "status": "confirmed",
+          "note": "",
+          "createdAt": "2026-10-05T13:24:41.965Z"
+        },
+        {
+          "id": "import-4-2-1-muva7l9p-p1rw16",
           "seasonNo": 33,
           "day": 1,
           "order": 1,
-          "selectionTypeId": "season33-type-mu5hpt7g-tj9mns",
+          "selectionTypeId": "season33-type-muva7l9p-ghddo2",
           "fromParticipantId": "season33-영철",
           "toParticipantId": "season33-영자",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-4-4-1-mu5hpt7g-4h0vil",
+          "id": "import-4-4-1-muva7l9p-7ktkmg",
           "seasonNo": 33,
           "day": 2,
           "order": 3,
-          "selectionTypeId": "season33-type-mu5hpt7g-zbvwcx",
+          "selectionTypeId": "season33-type-muva7l9p-v829m3",
           "fromParticipantId": "season33-영철",
           "toParticipantId": "season33-영자",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-4-5-1-mu5hpt7g-b5pklw",
+          "id": "import-4-5-1-muva7l9p-fvee3t",
           "seasonNo": 33,
           "day": 3,
           "order": 4,
-          "selectionTypeId": "season33-type-mu5hpt7g-hkxfx5",
+          "selectionTypeId": "season33-type-muva7l9p-otwsun",
           "fromParticipantId": "season33-영철",
           "toParticipantId": "season33-영숙",
           "score": 0,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-4-6-1-mu5hpt7g-um53t4",
+          "id": "import-4-6-1-muva7l9p-fifndd",
           "seasonNo": 33,
           "day": 3,
           "order": 5,
-          "selectionTypeId": "season33-type-mu5hpt7g-h9atue",
+          "selectionTypeId": "season33-type-muva7l9p-8vxdi7",
           "fromParticipantId": "season33-영철",
           "toParticipantId": "season33-정숙",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-4-8-1-mu5hpt7g-r2qr7i",
+          "id": "import-4-8-1-muva7l9p-d410mi",
           "seasonNo": 33,
           "day": 4,
           "order": 7,
-          "selectionTypeId": "season33-type-mu5hpt7g-h9atue",
+          "selectionTypeId": "season33-type-muva7l9p-8vxdi7",
           "fromParticipantId": "season33-영철",
           "toParticipantId": "season33-정숙",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-5-2-1-mu5hpt7g-ifzxsn",
+          "id": "import-4-12-1-muva7l9p-hgviu4",
+          "seasonNo": 33,
+          "day": 6,
+          "order": 11,
+          "selectionTypeId": "season33-type-muva7l9p-32a91z",
+          "fromParticipantId": "season33-영철",
+          "toParticipantId": "season33-정숙",
+          "score": 4,
+          "actualDate": true,
+          "status": "confirmed",
+          "note": "",
+          "createdAt": "2026-10-05T13:24:41.965Z"
+        },
+        {
+          "id": "import-5-2-1-muva7l9p-un4rmq",
           "seasonNo": 33,
           "day": 1,
           "order": 1,
-          "selectionTypeId": "season33-type-mu5hpt7g-tj9mns",
+          "selectionTypeId": "season33-type-muva7l9p-ghddo2",
           "fromParticipantId": "season33-광수",
           "toParticipantId": "season33-현숙",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-5-4-1-mu5hpt7g-rt7n0n",
+          "id": "import-5-4-1-muva7l9p-c58ist",
           "seasonNo": 33,
           "day": 2,
           "order": 3,
-          "selectionTypeId": "season33-type-mu5hpt7g-zbvwcx",
+          "selectionTypeId": "season33-type-muva7l9p-v829m3",
           "fromParticipantId": "season33-광수",
           "toParticipantId": "season33-현숙",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-5-5-1-mu5hpt7g-oxs4z0",
+          "id": "import-5-5-1-muva7l9p-quvd4k",
           "seasonNo": 33,
           "day": 3,
           "order": 4,
-          "selectionTypeId": "season33-type-mu5hpt7g-hkxfx5",
+          "selectionTypeId": "season33-type-muva7l9p-otwsun",
           "fromParticipantId": "season33-광수",
           "toParticipantId": "season33-정숙",
           "score": 0,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-5-6-1-mu5hpt7g-2ixpjr",
+          "id": "import-5-6-1-muva7l9p-ihs3jt",
           "seasonNo": 33,
           "day": 3,
           "order": 5,
-          "selectionTypeId": "season33-type-mu5hpt7g-h9atue",
+          "selectionTypeId": "season33-type-muva7l9p-8vxdi7",
           "fromParticipantId": "season33-광수",
           "toParticipantId": "season33-옥순",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-5-8-1-mu5hpt7g-6qleg4",
+          "id": "import-5-8-1-muva7l9p-myjmgc",
           "seasonNo": 33,
           "day": 4,
           "order": 7,
-          "selectionTypeId": "season33-type-mu5hpt7g-h9atue",
+          "selectionTypeId": "season33-type-muva7l9p-8vxdi7",
           "fromParticipantId": "season33-광수",
           "toParticipantId": "season33-영자",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-6-2-1-mu5hpt7g-8pk5hs",
+          "id": "import-5-10-1-muva7l9p-tblpc9",
+          "seasonNo": 33,
+          "day": 5,
+          "order": 9,
+          "selectionTypeId": "season33-type-muva7l9p-vmb3fj",
+          "fromParticipantId": "season33-광수",
+          "toParticipantId": "season33-영숙",
+          "score": 3,
+          "actualDate": true,
+          "status": "confirmed",
+          "note": "",
+          "createdAt": "2026-10-05T13:24:41.965Z"
+        },
+        {
+          "id": "import-5-10-2-muva7l9p-k2gn9g",
+          "seasonNo": 33,
+          "day": 5,
+          "order": 9,
+          "selectionTypeId": "season33-type-muva7l9p-vmb3fj",
+          "fromParticipantId": "season33-광수",
+          "toParticipantId": "season33-현숙",
+          "score": 3,
+          "actualDate": true,
+          "status": "confirmed",
+          "note": "",
+          "createdAt": "2026-10-05T13:24:41.965Z"
+        },
+        {
+          "id": "import-6-2-1-muva7l9p-fkcgz0",
           "seasonNo": 33,
           "day": 1,
           "order": 1,
-          "selectionTypeId": "season33-type-mu5hpt7g-tj9mns",
+          "selectionTypeId": "season33-type-muva7l9p-ghddo2",
           "fromParticipantId": "season33-상철",
           "toParticipantId": "season33-영자",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-6-4-1-mu5hpt7g-dqmb71",
+          "id": "import-6-4-1-muva7l9p-njculy",
           "seasonNo": 33,
           "day": 2,
           "order": 3,
-          "selectionTypeId": "season33-type-mu5hpt7g-zbvwcx",
+          "selectionTypeId": "season33-type-muva7l9p-v829m3",
           "fromParticipantId": "season33-상철",
           "toParticipantId": "season33-영자",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-6-5-1-mu5hpt7g-v3d4uu",
+          "id": "import-6-5-1-muva7l9p-o73yxq",
           "seasonNo": 33,
           "day": 3,
           "order": 4,
-          "selectionTypeId": "season33-type-mu5hpt7g-hkxfx5",
+          "selectionTypeId": "season33-type-muva7l9p-otwsun",
           "fromParticipantId": "season33-상철",
           "toParticipantId": "season33-현숙",
           "score": 0,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-6-6-1-mu5hpt7g-gmcuvt",
+          "id": "import-6-6-1-muva7l9p-0z3l0m",
           "seasonNo": 33,
           "day": 3,
           "order": 5,
-          "selectionTypeId": "season33-type-mu5hpt7g-h9atue",
+          "selectionTypeId": "season33-type-muva7l9p-8vxdi7",
           "fromParticipantId": "season33-상철",
           "toParticipantId": "season33-옥순",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-6-8-1-mu5hpt7g-cplhb5",
+          "id": "import-6-8-1-muva7l9p-908das",
           "seasonNo": 33,
           "day": 4,
           "order": 7,
-          "selectionTypeId": "season33-type-mu5hpt7g-h9atue",
+          "selectionTypeId": "season33-type-muva7l9p-8vxdi7",
           "fromParticipantId": "season33-상철",
           "toParticipantId": "season33-정숙",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-7-2-1-mu5hpt7g-n15eg8",
+          "id": "import-6-10-1-muva7l9p-o1ueql",
+          "seasonNo": 33,
+          "day": 5,
+          "order": 9,
+          "selectionTypeId": "season33-type-muva7l9p-vmb3fj",
+          "fromParticipantId": "season33-상철",
+          "toParticipantId": "season33-영자",
+          "score": 3,
+          "actualDate": true,
+          "status": "confirmed",
+          "note": "",
+          "createdAt": "2026-10-05T13:24:41.965Z"
+        },
+        {
+          "id": "import-7-2-1-muva7l9p-8tj02v",
           "seasonNo": 33,
           "day": 1,
           "order": 1,
-          "selectionTypeId": "season33-type-mu5hpt7g-tj9mns",
+          "selectionTypeId": "season33-type-muva7l9p-ghddo2",
           "fromParticipantId": "season33-영숙",
           "toParticipantId": "season33-영수",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-7-3-1-mu5hpt7g-jtnjch",
+          "id": "import-7-3-1-muva7l9p-zuo4pr",
           "seasonNo": 33,
           "day": 2,
           "order": 2,
-          "selectionTypeId": "season33-type-mu5hpt7g-2ag4l0",
+          "selectionTypeId": "season33-type-muva7l9p-yg2a4k",
           "fromParticipantId": "season33-영숙",
           "toParticipantId": "season33-영식",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-7-5-1-mu5hpt7g-gng7sw",
+          "id": "import-7-5-1-muva7l9p-2ugg1w",
           "seasonNo": 33,
           "day": 3,
           "order": 4,
-          "selectionTypeId": "season33-type-mu5hpt7g-hkxfx5",
+          "selectionTypeId": "season33-type-muva7l9p-otwsun",
           "fromParticipantId": "season33-영숙",
           "toParticipantId": "season33-영철",
           "score": 0,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-7-7-1-mu5hpt7g-2bwzue",
+          "id": "import-7-7-1-muva7l9p-jxsvi0",
           "seasonNo": 33,
           "day": 3,
           "order": 6,
-          "selectionTypeId": "season33-type-mu5hpt7g-89j13f",
+          "selectionTypeId": "season33-type-muva7l9p-kq08ai",
           "fromParticipantId": "season33-영숙",
           "toParticipantId": "season33-영식",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-7-9-1-mu5hpt7g-dw233a",
+          "id": "import-7-9-1-muva7l9p-x02xqy",
           "seasonNo": 33,
           "day": 4,
           "order": 8,
-          "selectionTypeId": "season33-type-mu5hpt7g-2ag4l0",
+          "selectionTypeId": "season33-type-muva7l9p-yg2a4k",
           "fromParticipantId": "season33-영숙",
           "toParticipantId": "season33-영식",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-8-2-1-mu5hpt7g-5ve0uj",
+          "id": "import-7-11-1-muva7l9p-0edpc7",
+          "seasonNo": 33,
+          "day": 5,
+          "order": 10,
+          "selectionTypeId": "season33-type-muva7l9p-muq1bj",
+          "fromParticipantId": "season33-영숙",
+          "toParticipantId": "season33-영식",
+          "score": 3,
+          "actualDate": true,
+          "status": "confirmed",
+          "note": "",
+          "createdAt": "2026-10-05T13:24:41.965Z"
+        },
+        {
+          "id": "import-8-2-1-muva7l9p-kmwaon",
           "seasonNo": 33,
           "day": 1,
           "order": 1,
-          "selectionTypeId": "season33-type-mu5hpt7g-tj9mns",
+          "selectionTypeId": "season33-type-muva7l9p-ghddo2",
           "fromParticipantId": "season33-정숙",
           "toParticipantId": "season33-상철",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-8-3-1-mu5hpt7g-hklr4t",
+          "id": "import-8-3-1-muva7l9p-wuyl9v",
           "seasonNo": 33,
           "day": 2,
           "order": 2,
-          "selectionTypeId": "season33-type-mu5hpt7g-2ag4l0",
+          "selectionTypeId": "season33-type-muva7l9p-yg2a4k",
           "fromParticipantId": "season33-정숙",
           "toParticipantId": "season33-영식",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-8-5-1-mu5hpt7g-1cvhj5",
+          "id": "import-8-5-1-muva7l9p-afh2q8",
           "seasonNo": 33,
           "day": 3,
           "order": 4,
-          "selectionTypeId": "season33-type-mu5hpt7g-hkxfx5",
+          "selectionTypeId": "season33-type-muva7l9p-otwsun",
           "fromParticipantId": "season33-정숙",
           "toParticipantId": "season33-광수",
           "score": 0,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-8-7-1-mu5hpt7g-8nn7dy",
+          "id": "import-8-7-1-muva7l9p-w2nsid",
           "seasonNo": 33,
           "day": 3,
           "order": 6,
-          "selectionTypeId": "season33-type-mu5hpt7g-89j13f",
+          "selectionTypeId": "season33-type-muva7l9p-kq08ai",
           "fromParticipantId": "season33-정숙",
           "toParticipantId": "season33-영철",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-8-9-1-mu5hpt7g-qw7ws0",
+          "id": "import-8-9-1-muva7l9p-ewd9r9",
           "seasonNo": 33,
           "day": 4,
           "order": 8,
-          "selectionTypeId": "season33-type-mu5hpt7g-2ag4l0",
+          "selectionTypeId": "season33-type-muva7l9p-yg2a4k",
           "fromParticipantId": "season33-정숙",
           "toParticipantId": "season33-영철",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-9-2-1-mu5hpt7g-rhgsac",
+          "id": "import-8-11-1-muva7l9p-2d8c0o",
+          "seasonNo": 33,
+          "day": 5,
+          "order": 10,
+          "selectionTypeId": "season33-type-muva7l9p-muq1bj",
+          "fromParticipantId": "season33-정숙",
+          "toParticipantId": "season33-영철",
+          "score": 3,
+          "actualDate": true,
+          "status": "confirmed",
+          "note": "",
+          "createdAt": "2026-10-05T13:24:41.965Z"
+        },
+        {
+          "id": "import-8-12-1-muva7l9p-t7qw43",
+          "seasonNo": 33,
+          "day": 6,
+          "order": 11,
+          "selectionTypeId": "season33-type-muva7l9p-32a91z",
+          "fromParticipantId": "season33-정숙",
+          "toParticipantId": "season33-영철",
+          "score": 4,
+          "actualDate": true,
+          "status": "confirmed",
+          "note": "",
+          "createdAt": "2026-10-05T13:24:41.965Z"
+        },
+        {
+          "id": "import-9-2-1-muva7l9p-2ux5dz",
           "seasonNo": 33,
           "day": 1,
           "order": 1,
-          "selectionTypeId": "season33-type-mu5hpt7g-tj9mns",
+          "selectionTypeId": "season33-type-muva7l9p-ghddo2",
           "fromParticipantId": "season33-순자",
           "toParticipantId": "season33-영식",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-9-3-1-mu5hpt7g-j7egzq",
+          "id": "import-9-3-1-muva7l9p-nz3zfi",
           "seasonNo": 33,
           "day": 2,
           "order": 2,
-          "selectionTypeId": "season33-type-mu5hpt7g-2ag4l0",
+          "selectionTypeId": "season33-type-muva7l9p-yg2a4k",
           "fromParticipantId": "season33-순자",
           "toParticipantId": "season33-영호",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-9-5-1-mu5hpt7g-1s2zci",
+          "id": "import-9-5-1-muva7l9p-tdy9p3",
           "seasonNo": 33,
           "day": 3,
           "order": 4,
-          "selectionTypeId": "season33-type-mu5hpt7g-hkxfx5",
+          "selectionTypeId": "season33-type-muva7l9p-otwsun",
           "fromParticipantId": "season33-순자",
           "toParticipantId": "season33-영수",
           "score": 0,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-9-7-1-mu5hpt7g-r9c3ws",
+          "id": "import-9-7-1-muva7l9p-64f8yt",
           "seasonNo": 33,
           "day": 3,
           "order": 6,
-          "selectionTypeId": "season33-type-mu5hpt7g-89j13f",
+          "selectionTypeId": "season33-type-muva7l9p-kq08ai",
           "fromParticipantId": "season33-순자",
           "toParticipantId": "season33-영호",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-9-9-1-mu5hpt7g-cck8xc",
+          "id": "import-9-9-1-muva7l9p-sxjb90",
           "seasonNo": 33,
           "day": 4,
           "order": 8,
-          "selectionTypeId": "season33-type-mu5hpt7g-2ag4l0",
+          "selectionTypeId": "season33-type-muva7l9p-yg2a4k",
           "fromParticipantId": "season33-순자",
           "toParticipantId": "season33-영호",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-10-2-1-mu5hpt7g-5ge2jc",
+          "id": "import-9-11-1-muva7l9p-d0gusc",
+          "seasonNo": 33,
+          "day": 5,
+          "order": 10,
+          "selectionTypeId": "season33-type-muva7l9p-muq1bj",
+          "fromParticipantId": "season33-순자",
+          "toParticipantId": "season33-영호",
+          "score": 3,
+          "actualDate": true,
+          "status": "confirmed",
+          "note": "",
+          "createdAt": "2026-10-05T13:24:41.965Z"
+        },
+        {
+          "id": "import-9-12-1-muva7l9p-l98gva",
+          "seasonNo": 33,
+          "day": 6,
+          "order": 11,
+          "selectionTypeId": "season33-type-muva7l9p-32a91z",
+          "fromParticipantId": "season33-순자",
+          "toParticipantId": "season33-영호",
+          "score": 4,
+          "actualDate": true,
+          "status": "confirmed",
+          "note": "",
+          "createdAt": "2026-10-05T13:24:41.965Z"
+        },
+        {
+          "id": "import-10-2-1-muva7l9p-aa0cf2",
           "seasonNo": 33,
           "day": 1,
           "order": 1,
-          "selectionTypeId": "season33-type-mu5hpt7g-tj9mns",
+          "selectionTypeId": "season33-type-muva7l9p-ghddo2",
           "fromParticipantId": "season33-영자",
           "toParticipantId": "season33-상철",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-10-3-1-mu5hpt7g-f1b316",
+          "id": "import-10-3-1-muva7l9p-7kc1sc",
           "seasonNo": 33,
           "day": 2,
           "order": 2,
-          "selectionTypeId": "season33-type-mu5hpt7g-2ag4l0",
+          "selectionTypeId": "season33-type-muva7l9p-yg2a4k",
           "fromParticipantId": "season33-영자",
           "toParticipantId": "season33-영호",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-10-5-1-mu5hpt7g-p20fyy",
+          "id": "import-10-5-1-muva7l9p-3jogxm",
           "seasonNo": 33,
           "day": 3,
           "order": 4,
-          "selectionTypeId": "season33-type-mu5hpt7g-hkxfx5",
+          "selectionTypeId": "season33-type-muva7l9p-otwsun",
           "fromParticipantId": "season33-영자",
           "toParticipantId": "season33-영식",
           "score": 0,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-10-7-1-mu5hpt7g-7u81vu",
+          "id": "import-10-7-1-muva7l9p-0yh6br",
           "seasonNo": 33,
           "day": 3,
           "order": 6,
-          "selectionTypeId": "season33-type-mu5hpt7g-89j13f",
+          "selectionTypeId": "season33-type-muva7l9p-kq08ai",
           "fromParticipantId": "season33-영자",
           "toParticipantId": "season33-영식",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-10-9-1-mu5hpt7g-5g0e2q",
+          "id": "import-10-9-1-muva7l9p-fvbfp1",
           "seasonNo": 33,
           "day": 4,
           "order": 8,
-          "selectionTypeId": "season33-type-mu5hpt7g-2ag4l0",
+          "selectionTypeId": "season33-type-muva7l9p-yg2a4k",
           "fromParticipantId": "season33-영자",
           "toParticipantId": "season33-영수",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-11-2-1-mu5hpt7g-olb4ji",
+          "id": "import-11-2-1-muva7l9p-0ndypb",
           "seasonNo": 33,
           "day": 1,
           "order": 1,
-          "selectionTypeId": "season33-type-mu5hpt7g-tj9mns",
+          "selectionTypeId": "season33-type-muva7l9p-ghddo2",
           "fromParticipantId": "season33-옥순",
           "toParticipantId": "season33-영철",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-11-3-1-mu5hpt7g-3ca5fe",
+          "id": "import-11-3-1-muva7l9p-mntnjs",
           "seasonNo": 33,
           "day": 2,
           "order": 2,
-          "selectionTypeId": "season33-type-mu5hpt7g-2ag4l0",
+          "selectionTypeId": "season33-type-muva7l9p-yg2a4k",
           "fromParticipantId": "season33-옥순",
           "toParticipantId": "season33-영식",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-11-5-1-mu5hpt7g-q8csuk",
+          "id": "import-11-5-1-muva7l9p-sdte18",
           "seasonNo": 33,
           "day": 3,
           "order": 4,
-          "selectionTypeId": "season33-type-mu5hpt7g-hkxfx5",
+          "selectionTypeId": "season33-type-muva7l9p-otwsun",
           "fromParticipantId": "season33-옥순",
           "toParticipantId": "season33-영호",
           "score": 0,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-11-7-1-mu5hpt7g-gbxke6",
+          "id": "import-11-7-1-muva7l9p-h06ilh",
           "seasonNo": 33,
           "day": 3,
           "order": 6,
-          "selectionTypeId": "season33-type-mu5hpt7g-89j13f",
+          "selectionTypeId": "season33-type-muva7l9p-kq08ai",
           "fromParticipantId": "season33-옥순",
           "toParticipantId": "season33-영식",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-11-9-1-mu5hpt7g-a28pyz",
+          "id": "import-11-9-1-muva7l9p-s5e1ee",
           "seasonNo": 33,
           "day": 4,
           "order": 8,
-          "selectionTypeId": "season33-type-mu5hpt7g-2ag4l0",
+          "selectionTypeId": "season33-type-muva7l9p-yg2a4k",
           "fromParticipantId": "season33-옥순",
           "toParticipantId": "season33-영수",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-12-2-1-mu5hpt7g-uin5rb",
+          "id": "import-12-2-1-muva7l9p-3k7qg8",
           "seasonNo": 33,
           "day": 1,
           "order": 1,
-          "selectionTypeId": "season33-type-mu5hpt7g-tj9mns",
+          "selectionTypeId": "season33-type-muva7l9p-ghddo2",
           "fromParticipantId": "season33-현숙",
           "toParticipantId": "season33-상철",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-12-3-1-mu5hpt7g-ygeh0e",
+          "id": "import-12-3-1-muva7l9p-t5hhmd",
           "seasonNo": 33,
           "day": 2,
           "order": 2,
-          "selectionTypeId": "season33-type-mu5hpt7g-2ag4l0",
+          "selectionTypeId": "season33-type-muva7l9p-yg2a4k",
           "fromParticipantId": "season33-현숙",
           "toParticipantId": "season33-광수",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-12-5-1-mu5hpt7g-qzd27q",
+          "id": "import-12-5-1-muva7l9p-njq5vl",
           "seasonNo": 33,
           "day": 3,
           "order": 4,
-          "selectionTypeId": "season33-type-mu5hpt7g-hkxfx5",
+          "selectionTypeId": "season33-type-muva7l9p-otwsun",
           "fromParticipantId": "season33-현숙",
           "toParticipantId": "season33-상철",
           "score": 0,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-12-7-1-mu5hpt7g-w2hs1u",
+          "id": "import-12-7-1-muva7l9p-lu7ovi",
           "seasonNo": 33,
           "day": 3,
           "order": 6,
-          "selectionTypeId": "season33-type-mu5hpt7g-89j13f",
+          "selectionTypeId": "season33-type-muva7l9p-kq08ai",
           "fromParticipantId": "season33-현숙",
           "toParticipantId": "season33-상철",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         },
         {
-          "id": "import-12-9-1-mu5hpt7g-mo3vim",
+          "id": "import-12-9-1-muva7l9p-jb9qan",
           "seasonNo": 33,
           "day": 4,
           "order": 8,
-          "selectionTypeId": "season33-type-mu5hpt7g-2ag4l0",
+          "selectionTypeId": "season33-type-muva7l9p-yg2a4k",
           "fromParticipantId": "season33-현숙",
           "toParticipantId": "season33-광수",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-09-17T12:12:48.796Z"
+          "createdAt": "2026-10-05T13:24:41.965Z"
         }
       ],
       "finalCouples": [],
       "sources": [],
       "broadcastFinalCouples": [],
       "postShowRelationships": [],
-      "updatedAt": "2026-09-17T12:12:48.796Z",
+      "updatedAt": "2026-10-05T13:24:41.965Z",
       "inputColumns": [
         {
-          "key": "1-season33-type-mu5hpt7g-tj9mns-1-true-0",
+          "key": "1-season33-type-muva7l9p-ghddo2-1-true-0",
           "day": 1,
-          "selectionTypeId": "season33-type-mu5hpt7g-tj9mns",
+          "selectionTypeId": "season33-type-muva7l9p-ghddo2",
           "score": 1,
           "actualDate": true,
           "order": 1
         },
         {
-          "key": "2-season33-type-mu5hpt7g-2ag4l0-2-true-1",
+          "key": "2-season33-type-muva7l9p-yg2a4k-2-true-1",
           "day": 2,
-          "selectionTypeId": "season33-type-mu5hpt7g-2ag4l0",
+          "selectionTypeId": "season33-type-muva7l9p-yg2a4k",
           "score": 2,
           "actualDate": true,
           "order": 2
         },
         {
-          "key": "2-season33-type-mu5hpt7g-zbvwcx-1-true-2",
+          "key": "2-season33-type-muva7l9p-v829m3-1-true-2",
           "day": 2,
-          "selectionTypeId": "season33-type-mu5hpt7g-zbvwcx",
+          "selectionTypeId": "season33-type-muva7l9p-v829m3",
           "score": 1,
           "actualDate": true,
           "order": 3
         },
         {
-          "key": "3-season33-type-mu5hpt7g-hkxfx5-0-true-3",
+          "key": "3-season33-type-muva7l9p-otwsun-0-true-3",
           "day": 3,
-          "selectionTypeId": "season33-type-mu5hpt7g-hkxfx5",
+          "selectionTypeId": "season33-type-muva7l9p-otwsun",
           "score": 0,
           "actualDate": true,
           "order": 4
         },
         {
-          "key": "3-season33-type-mu5hpt7g-h9atue-2-true-4",
+          "key": "3-season33-type-muva7l9p-8vxdi7-2-true-4",
           "day": 3,
-          "selectionTypeId": "season33-type-mu5hpt7g-h9atue",
+          "selectionTypeId": "season33-type-muva7l9p-8vxdi7",
           "score": 2,
           "actualDate": true,
           "order": 5
         },
         {
-          "key": "3-season33-type-mu5hpt7g-89j13f-1-true-5",
+          "key": "3-season33-type-muva7l9p-kq08ai-1-true-5",
           "day": 3,
-          "selectionTypeId": "season33-type-mu5hpt7g-89j13f",
+          "selectionTypeId": "season33-type-muva7l9p-kq08ai",
           "score": 1,
           "actualDate": true,
           "order": 6
         },
         {
-          "key": "4-season33-type-mu5hpt7g-h9atue-2-true-6",
+          "key": "4-season33-type-muva7l9p-8vxdi7-2-true-6",
           "day": 4,
-          "selectionTypeId": "season33-type-mu5hpt7g-h9atue",
+          "selectionTypeId": "season33-type-muva7l9p-8vxdi7",
           "score": 2,
           "actualDate": true,
           "order": 7
         },
         {
-          "key": "4-season33-type-mu5hpt7g-2ag4l0-2-true-7",
+          "key": "4-season33-type-muva7l9p-yg2a4k-2-true-7",
           "day": 4,
-          "selectionTypeId": "season33-type-mu5hpt7g-2ag4l0",
+          "selectionTypeId": "season33-type-muva7l9p-yg2a4k",
           "score": 2,
           "actualDate": true,
           "order": 8
+        },
+        {
+          "key": "5-season33-type-muva7l9p-vmb3fj-3-true-8",
+          "day": 5,
+          "selectionTypeId": "season33-type-muva7l9p-vmb3fj",
+          "score": 3,
+          "actualDate": true,
+          "order": 9
+        },
+        {
+          "key": "5-season33-type-muva7l9p-muq1bj-3-true-9",
+          "day": 5,
+          "selectionTypeId": "season33-type-muva7l9p-muq1bj",
+          "score": 3,
+          "actualDate": true,
+          "order": 10
+        },
+        {
+          "key": "6-season33-type-muva7l9p-32a91z-4-true-10",
+          "day": 6,
+          "selectionTypeId": "season33-type-muva7l9p-32a91z",
+          "score": 4,
+          "actualDate": true,
+          "order": 11
         }
       ]
     }

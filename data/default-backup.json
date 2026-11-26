@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-11-07T11:45:48.262Z",
+  "exportedAt": "2026-11-26T05:08:52.930Z",
   "seasons": [
     {
       "id": "season-29",
@@ -6921,7 +6921,7 @@
       "id": "season-34",
       "seasonNo": 34,
       "title": "나는 솔로 34기",
-      "maxDay": 3,
+      "maxDay": 4,
       "status": "draft",
       "participants": [
         {
@@ -6931,8 +6931,8 @@
           "gender": "male",
           "nodeColor": "#0ea5e9",
           "position": {
-            "x": 455.30162278155376,
-            "y": 439.50788418485297
+            "x": 704.998768249005,
+            "y": 244.29981552387335
           },
           "active": true,
           "sortOrder": 0,
@@ -6945,8 +6945,8 @@
           "gender": "male",
           "nodeColor": "#0ea5e9",
           "position": {
-            "x": 499.1453740560138,
-            "y": 226.76210706426485
+            "x": 489.8908621568695,
+            "y": 250.6143082876058
           },
           "active": true,
           "sortOrder": 1,
@@ -6959,8 +6959,8 @@
           "gender": "male",
           "nodeColor": "#0ea5e9",
           "position": {
-            "x": 719.0548282144899,
-            "y": 359.3281531685844
+            "x": 618.2089668241348,
+            "y": 86.70247703703126
           },
           "active": true,
           "sortOrder": 2,
@@ -6973,8 +6973,8 @@
           "gender": "male",
           "nodeColor": "#0ea5e9",
           "position": {
-            "x": 467.6709557930237,
-            "y": 135.50901176283205
+            "x": 395.88237649819473,
+            "y": 105.59710372331995
           },
           "active": true,
           "sortOrder": 3,
@@ -6987,8 +6987,8 @@
           "gender": "male",
           "nodeColor": "#0ea5e9",
           "position": {
-            "x": 601.3757864885204,
-            "y": 497.5939370160448
+            "x": 668.2846078995468,
+            "y": 373.20595639805623
           },
           "active": true,
           "sortOrder": 4,
@@ -7001,8 +7001,8 @@
           "gender": "male",
           "nodeColor": "#0ea5e9",
           "position": {
-            "x": 330.8951495574375,
-            "y": 260.3267073406356
+            "x": 320.6396382296048,
+            "y": 269.7275927244823
           },
           "active": true,
           "sortOrder": 5,
@@ -7015,8 +7015,8 @@
           "gender": "female",
           "nodeColor": "#f43f8b",
           "position": {
-            "x": 649.8188787416673,
-            "y": 100.85814647871925
+            "x": 733.9914615647178,
+            "y": 133.49268377756397
           },
           "active": true,
           "sortOrder": 6,
@@ -7029,8 +7029,8 @@
           "gender": "female",
           "nodeColor": "#f43f8b",
           "position": {
-            "x": 725.3506626582614,
-            "y": 231.1828694870811
+            "x": 592.5687596182596,
+            "y": 450.9247562684269
           },
           "active": true,
           "sortOrder": 7,
@@ -7043,8 +7043,8 @@
           "gender": "female",
           "nodeColor": "#f43f8b",
           "position": {
-            "x": 536.3730669589464,
-            "y": 306
+            "x": 558.5933415025839,
+            "y": 304.29074811202787
           },
           "active": true,
           "sortOrder": 8,
@@ -7057,8 +7057,8 @@
           "gender": "female",
           "nodeColor": "#f43f8b",
           "position": {
-            "x": 368.71230547196774,
-            "y": 80.09769647982984
+            "x": 252.17659349059372,
+            "y": 144.90255744403672
           },
           "active": true,
           "sortOrder": 9,
@@ -7071,8 +7071,8 @@
           "gender": "female",
           "nodeColor": "#f43f8b",
           "position": {
-            "x": 274.1194122435735,
-            "y": 400.66494975939764
+            "x": 331.3793504906395,
+            "y": 377.590049271774
           },
           "active": true,
           "sortOrder": 10,
@@ -7085,8 +7085,8 @@
           "gender": "female",
           "nodeColor": "#f43f8b",
           "position": {
-            "x": 463.6269330410536,
-            "y": 306
+            "x": 429.4418952816112,
+            "y": 192.334749449854
           },
           "active": true,
           "sortOrder": 11,
@@ -7095,7 +7095,7 @@
       ],
       "selectionTypes": [
         {
-          "id": "season34-type-mw6c6rhp-dk9hq3",
+          "id": "season34-type-mwx3cuk5-41sl4a",
           "seasonNo": 34,
           "name": "첫인상",
           "defaultScore": 1,
@@ -7106,7 +7106,7 @@
           "isFinalSelection": false
         },
         {
-          "id": "season34-type-mw6c6rhp-zhsmxn",
+          "id": "season34-type-mwx3cuk5-wai2fc",
           "seasonNo": 34,
           "name": "여자선택",
           "defaultScore": 2,
@@ -7117,7 +7117,7 @@
           "isFinalSelection": false
         },
         {
-          "id": "season34-type-mw6c6rhp-kb3sth",
+          "id": "season34-type-mwx3cuk5-p7zg6e",
           "seasonNo": 34,
           "name": "남자마음",
           "defaultScore": 1,
@@ -7128,10 +7128,54 @@
           "isFinalSelection": false
         },
         {
-          "id": "season34-type-mw6c6rhp-v27wlq",
+          "id": "season34-type-mwx3cuk5-mod5fd",
           "seasonNo": 34,
           "name": "남자선택",
           "defaultScore": 2,
+          "actualDate": true,
+          "visibleSelection": true,
+          "lineStyle": "solid",
+          "includeInScore": true,
+          "isFinalSelection": false
+        },
+        {
+          "id": "season34-type-mwx3cuk5-omlgxr",
+          "seasonNo": 34,
+          "name": "랜덤",
+          "defaultScore": 0,
+          "actualDate": true,
+          "visibleSelection": true,
+          "lineStyle": "solid",
+          "includeInScore": false,
+          "isFinalSelection": false
+        },
+        {
+          "id": "season34-type-mwx3cuk5-om2m1x",
+          "seasonNo": 34,
+          "name": "슈퍼데이트(남)",
+          "defaultScore": 3,
+          "actualDate": true,
+          "visibleSelection": true,
+          "lineStyle": "solid",
+          "includeInScore": true,
+          "isFinalSelection": false
+        },
+        {
+          "id": "season34-type-mwx3cuk5-vjl8q4",
+          "seasonNo": 34,
+          "name": "슈퍼데이트(녀)",
+          "defaultScore": 3,
+          "actualDate": true,
+          "visibleSelection": true,
+          "lineStyle": "solid",
+          "includeInScore": true,
+          "isFinalSelection": false
+        },
+        {
+          "id": "season34-type-mwx3cuk5-wuh6yx",
+          "seasonNo": 34,
+          "name": "슈퍼데이트 -2",
+          "defaultScore": 3,
           "actualDate": true,
           "visibleSelection": true,
           "lineStyle": "solid",
@@ -7141,555 +7185,825 @@
       ],
       "selections": [
         {
-          "id": "import-1-2-1-mw6c6rhp-zzegkr",
+          "id": "import-1-2-1-mwx3cuk5-11gtfp",
           "seasonNo": 34,
           "day": 1,
           "order": 1,
-          "selectionTypeId": "season34-type-mw6c6rhp-dk9hq3",
+          "selectionTypeId": "season34-type-mwx3cuk5-41sl4a",
           "fromParticipantId": "season34-영수",
           "toParticipantId": "season34-순자",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-11-07T11:45:12.877Z"
+          "createdAt": "2026-11-26T05:07:46.997Z"
         },
         {
-          "id": "import-1-4-1-mw6c6rhp-s5w0sv",
+          "id": "import-1-4-1-mwx3cuk5-6ybu4d",
           "seasonNo": 34,
           "day": 2,
           "order": 3,
-          "selectionTypeId": "season34-type-mw6c6rhp-kb3sth",
+          "selectionTypeId": "season34-type-mwx3cuk5-p7zg6e",
           "fromParticipantId": "season34-영수",
           "toParticipantId": "season34-순자",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-11-07T11:45:12.877Z"
+          "createdAt": "2026-11-26T05:07:46.997Z"
         },
         {
-          "id": "import-1-5-1-mw6c6rhp-jgy215",
+          "id": "import-1-5-1-mwx3cuk5-rpe8qb",
           "seasonNo": 34,
           "day": 3,
           "order": 4,
-          "selectionTypeId": "season34-type-mw6c6rhp-v27wlq",
+          "selectionTypeId": "season34-type-mwx3cuk5-mod5fd",
           "fromParticipantId": "season34-영수",
           "toParticipantId": "season34-순자",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-11-07T11:45:12.877Z"
+          "createdAt": "2026-11-26T05:07:46.997Z"
         },
         {
-          "id": "import-2-2-1-mw6c6rhp-m0ajew",
+          "id": "import-1-7-1-mwx3cuk5-izk4bp",
+          "seasonNo": 34,
+          "day": 4,
+          "order": 6,
+          "selectionTypeId": "season34-type-mwx3cuk5-omlgxr",
+          "fromParticipantId": "season34-영수",
+          "toParticipantId": "season34-영숙",
+          "score": 0,
+          "actualDate": true,
+          "status": "confirmed",
+          "note": "",
+          "createdAt": "2026-11-26T05:07:46.997Z"
+        },
+        {
+          "id": "import-1-8-1-mwx3cuk5-pkmo38",
+          "seasonNo": 34,
+          "day": 4,
+          "order": 7,
+          "selectionTypeId": "season34-type-mwx3cuk5-om2m1x",
+          "fromParticipantId": "season34-영수",
+          "toParticipantId": "season34-옥순",
+          "score": 3,
+          "actualDate": true,
+          "status": "confirmed",
+          "note": "",
+          "createdAt": "2026-11-26T05:07:46.997Z"
+        },
+        {
+          "id": "import-1-10-1-mwx3cuk5-xf268r",
+          "seasonNo": 34,
+          "day": 4,
+          "order": 9,
+          "selectionTypeId": "season34-type-mwx3cuk5-wuh6yx",
+          "fromParticipantId": "season34-영수",
+          "toParticipantId": "season34-옥순",
+          "score": 3,
+          "actualDate": true,
+          "status": "confirmed",
+          "note": "",
+          "createdAt": "2026-11-26T05:07:46.997Z"
+        },
+        {
+          "id": "import-2-2-1-mwx3cuk5-dpput3",
           "seasonNo": 34,
           "day": 1,
           "order": 1,
-          "selectionTypeId": "season34-type-mw6c6rhp-dk9hq3",
+          "selectionTypeId": "season34-type-mwx3cuk5-41sl4a",
           "fromParticipantId": "season34-영호",
           "toParticipantId": "season34-현숙",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-11-07T11:45:12.877Z"
+          "createdAt": "2026-11-26T05:07:46.997Z"
         },
         {
-          "id": "import-2-4-1-mw6c6rhp-bwci4i",
+          "id": "import-2-4-1-mwx3cuk5-zbm9f8",
           "seasonNo": 34,
           "day": 2,
           "order": 3,
-          "selectionTypeId": "season34-type-mw6c6rhp-kb3sth",
+          "selectionTypeId": "season34-type-mwx3cuk5-p7zg6e",
           "fromParticipantId": "season34-영호",
           "toParticipantId": "season34-현숙",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-11-07T11:45:12.877Z"
+          "createdAt": "2026-11-26T05:07:46.997Z"
         },
         {
-          "id": "import-2-5-1-mw6c6rhp-7cmaei",
+          "id": "import-2-5-1-mwx3cuk5-rhze5s",
           "seasonNo": 34,
           "day": 3,
           "order": 4,
-          "selectionTypeId": "season34-type-mw6c6rhp-v27wlq",
+          "selectionTypeId": "season34-type-mwx3cuk5-mod5fd",
           "fromParticipantId": "season34-영호",
           "toParticipantId": "season34-순자",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-11-07T11:45:12.877Z"
+          "createdAt": "2026-11-26T05:07:46.997Z"
         },
         {
-          "id": "import-3-2-1-mw6c6rhp-upxd35",
+          "id": "import-2-7-1-mwx3cuk5-yw0hlx",
+          "seasonNo": 34,
+          "day": 4,
+          "order": 6,
+          "selectionTypeId": "season34-type-mwx3cuk5-omlgxr",
+          "fromParticipantId": "season34-영호",
+          "toParticipantId": "season34-순자",
+          "score": 0,
+          "actualDate": true,
+          "status": "confirmed",
+          "note": "",
+          "createdAt": "2026-11-26T05:07:46.997Z"
+        },
+        {
+          "id": "import-3-2-1-mwx3cuk5-yafwhb",
           "seasonNo": 34,
           "day": 1,
           "order": 1,
-          "selectionTypeId": "season34-type-mw6c6rhp-dk9hq3",
+          "selectionTypeId": "season34-type-mwx3cuk5-41sl4a",
           "fromParticipantId": "season34-영식",
           "toParticipantId": "season34-순자",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-11-07T11:45:12.877Z"
+          "createdAt": "2026-11-26T05:07:46.997Z"
         },
         {
-          "id": "import-3-4-1-mw6c6rhp-nmy0nv",
+          "id": "import-3-4-1-mwx3cuk5-ot0n4i",
           "seasonNo": 34,
           "day": 2,
           "order": 3,
-          "selectionTypeId": "season34-type-mw6c6rhp-kb3sth",
+          "selectionTypeId": "season34-type-mwx3cuk5-p7zg6e",
           "fromParticipantId": "season34-영식",
           "toParticipantId": "season34-순자",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-11-07T11:45:12.877Z"
+          "createdAt": "2026-11-26T05:07:46.997Z"
         },
         {
-          "id": "import-3-5-1-mw6c6rhp-dirvwg",
+          "id": "import-3-5-1-mwx3cuk5-1q0vgk",
           "seasonNo": 34,
           "day": 3,
           "order": 4,
-          "selectionTypeId": "season34-type-mw6c6rhp-v27wlq",
+          "selectionTypeId": "season34-type-mwx3cuk5-mod5fd",
           "fromParticipantId": "season34-영식",
           "toParticipantId": "season34-현숙",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-11-07T11:45:12.877Z"
+          "createdAt": "2026-11-26T05:07:46.997Z"
         },
         {
-          "id": "import-4-2-1-mw6c6rhp-nodcik",
+          "id": "import-3-7-1-mwx3cuk5-if4dct",
+          "seasonNo": 34,
+          "day": 4,
+          "order": 6,
+          "selectionTypeId": "season34-type-mwx3cuk5-omlgxr",
+          "fromParticipantId": "season34-영식",
+          "toParticipantId": "season34-현숙",
+          "score": 0,
+          "actualDate": true,
+          "status": "confirmed",
+          "note": "",
+          "createdAt": "2026-11-26T05:07:46.997Z"
+        },
+        {
+          "id": "import-3-8-1-mwx3cuk5-g9uc5r",
+          "seasonNo": 34,
+          "day": 4,
+          "order": 7,
+          "selectionTypeId": "season34-type-mwx3cuk5-om2m1x",
+          "fromParticipantId": "season34-영식",
+          "toParticipantId": "season34-영숙",
+          "score": 3,
+          "actualDate": true,
+          "status": "confirmed",
+          "note": "",
+          "createdAt": "2026-11-26T05:07:46.997Z"
+        },
+        {
+          "id": "import-4-2-1-mwx3cuk5-rula7v",
           "seasonNo": 34,
           "day": 1,
           "order": 1,
-          "selectionTypeId": "season34-type-mw6c6rhp-dk9hq3",
+          "selectionTypeId": "season34-type-mwx3cuk5-41sl4a",
           "fromParticipantId": "season34-영철",
           "toParticipantId": "season34-현숙",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-11-07T11:45:12.877Z"
+          "createdAt": "2026-11-26T05:07:46.997Z"
         },
         {
-          "id": "import-4-4-1-mw6c6rhp-4ke6u4",
+          "id": "import-4-4-1-mwx3cuk5-6scaxy",
           "seasonNo": 34,
           "day": 2,
           "order": 3,
-          "selectionTypeId": "season34-type-mw6c6rhp-kb3sth",
+          "selectionTypeId": "season34-type-mwx3cuk5-p7zg6e",
           "fromParticipantId": "season34-영철",
           "toParticipantId": "season34-현숙",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-11-07T11:45:12.877Z"
+          "createdAt": "2026-11-26T05:07:46.997Z"
         },
         {
-          "id": "import-4-5-1-mw6c6rhp-bfe91o",
+          "id": "import-4-5-1-mwx3cuk5-0snnpi",
           "seasonNo": 34,
           "day": 3,
           "order": 4,
-          "selectionTypeId": "season34-type-mw6c6rhp-v27wlq",
+          "selectionTypeId": "season34-type-mwx3cuk5-mod5fd",
           "fromParticipantId": "season34-영철",
           "toParticipantId": "season34-현숙",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-11-07T11:45:12.877Z"
+          "createdAt": "2026-11-26T05:07:46.997Z"
         },
         {
-          "id": "import-5-2-1-mw6c6rhp-djrppw",
+          "id": "import-4-7-1-mwx3cuk5-vmi67m",
+          "seasonNo": 34,
+          "day": 4,
+          "order": 6,
+          "selectionTypeId": "season34-type-mwx3cuk5-omlgxr",
+          "fromParticipantId": "season34-영철",
+          "toParticipantId": "season34-정숙",
+          "score": 0,
+          "actualDate": true,
+          "status": "confirmed",
+          "note": "",
+          "createdAt": "2026-11-26T05:07:46.997Z"
+        },
+        {
+          "id": "import-5-2-1-mwx3cuk5-00pani",
           "seasonNo": 34,
           "day": 1,
           "order": 1,
-          "selectionTypeId": "season34-type-mw6c6rhp-dk9hq3",
+          "selectionTypeId": "season34-type-mwx3cuk5-41sl4a",
           "fromParticipantId": "season34-광수",
           "toParticipantId": "season34-순자",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-11-07T11:45:12.877Z"
+          "createdAt": "2026-11-26T05:07:46.997Z"
         },
         {
-          "id": "import-5-4-1-mw6c6rhp-kjdujf",
+          "id": "import-5-4-1-mwx3cuk5-zfpj9v",
           "seasonNo": 34,
           "day": 2,
           "order": 3,
-          "selectionTypeId": "season34-type-mw6c6rhp-kb3sth",
+          "selectionTypeId": "season34-type-mwx3cuk5-p7zg6e",
           "fromParticipantId": "season34-광수",
           "toParticipantId": "season34-순자",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-11-07T11:45:12.877Z"
+          "createdAt": "2026-11-26T05:07:46.997Z"
         },
         {
-          "id": "import-5-5-1-mw6c6rhp-ij8iao",
+          "id": "import-5-5-1-mwx3cuk5-upznbv",
           "seasonNo": 34,
           "day": 3,
           "order": 4,
-          "selectionTypeId": "season34-type-mw6c6rhp-v27wlq",
+          "selectionTypeId": "season34-type-mwx3cuk5-mod5fd",
           "fromParticipantId": "season34-광수",
           "toParticipantId": "season34-옥순",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-11-07T11:45:12.877Z"
+          "createdAt": "2026-11-26T05:07:46.997Z"
         },
         {
-          "id": "import-6-2-1-mw6c6rhp-9lz5tn",
+          "id": "import-5-7-1-mwx3cuk5-je4hcp",
+          "seasonNo": 34,
+          "day": 4,
+          "order": 6,
+          "selectionTypeId": "season34-type-mwx3cuk5-omlgxr",
+          "fromParticipantId": "season34-광수",
+          "toParticipantId": "season34-옥순",
+          "score": 0,
+          "actualDate": true,
+          "status": "confirmed",
+          "note": "",
+          "createdAt": "2026-11-26T05:07:46.997Z"
+        },
+        {
+          "id": "import-6-2-1-mwx3cuk5-b0d8dm",
           "seasonNo": 34,
           "day": 1,
           "order": 1,
-          "selectionTypeId": "season34-type-mw6c6rhp-dk9hq3",
+          "selectionTypeId": "season34-type-mwx3cuk5-41sl4a",
           "fromParticipantId": "season34-상철",
           "toParticipantId": "season34-현숙",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-11-07T11:45:12.877Z"
+          "createdAt": "2026-11-26T05:07:46.997Z"
         },
         {
-          "id": "import-6-4-1-mw6c6rhp-w4dskh",
+          "id": "import-6-4-1-mwx3cuk5-7zhmba",
           "seasonNo": 34,
           "day": 2,
           "order": 3,
-          "selectionTypeId": "season34-type-mw6c6rhp-kb3sth",
+          "selectionTypeId": "season34-type-mwx3cuk5-p7zg6e",
           "fromParticipantId": "season34-상철",
           "toParticipantId": "season34-옥순",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-11-07T11:45:12.877Z"
+          "createdAt": "2026-11-26T05:07:46.997Z"
         },
         {
-          "id": "import-6-5-1-mw6c6rhp-4pyrui",
+          "id": "import-6-5-1-mwx3cuk5-xhvmfl",
           "seasonNo": 34,
           "day": 3,
           "order": 4,
-          "selectionTypeId": "season34-type-mw6c6rhp-v27wlq",
+          "selectionTypeId": "season34-type-mwx3cuk5-mod5fd",
           "fromParticipantId": "season34-상철",
           "toParticipantId": "season34-정숙",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-11-07T11:45:12.877Z"
+          "createdAt": "2026-11-26T05:07:46.997Z"
         },
         {
-          "id": "import-7-2-1-mw6c6rhp-z752c7",
+          "id": "import-6-7-1-mwx3cuk5-db10mm",
+          "seasonNo": 34,
+          "day": 4,
+          "order": 6,
+          "selectionTypeId": "season34-type-mwx3cuk5-omlgxr",
+          "fromParticipantId": "season34-상철",
+          "toParticipantId": "season34-영자",
+          "score": 0,
+          "actualDate": true,
+          "status": "confirmed",
+          "note": "",
+          "createdAt": "2026-11-26T05:07:46.997Z"
+        },
+        {
+          "id": "import-7-2-1-mwx3cuk5-44rdf7",
           "seasonNo": 34,
           "day": 1,
           "order": 1,
-          "selectionTypeId": "season34-type-mw6c6rhp-dk9hq3",
+          "selectionTypeId": "season34-type-mwx3cuk5-41sl4a",
           "fromParticipantId": "season34-영숙",
           "toParticipantId": "season34-영호",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-11-07T11:45:12.877Z"
+          "createdAt": "2026-11-26T05:07:46.997Z"
         },
         {
-          "id": "import-7-3-1-mw6c6rhp-vj9rny",
+          "id": "import-7-3-1-mwx3cuk5-nahz87",
           "seasonNo": 34,
           "day": 2,
           "order": 2,
-          "selectionTypeId": "season34-type-mw6c6rhp-zhsmxn",
+          "selectionTypeId": "season34-type-mwx3cuk5-wai2fc",
           "fromParticipantId": "season34-영숙",
           "toParticipantId": "season34-영호",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-11-07T11:45:12.877Z"
+          "createdAt": "2026-11-26T05:07:46.997Z"
         },
         {
-          "id": "import-7-6-1-mw6c6rhp-j563c8",
+          "id": "import-7-6-1-mwx3cuk5-nmvpk0",
           "seasonNo": 34,
           "day": 3,
           "order": 5,
-          "selectionTypeId": "season34-type-mw6c6rhp-zhsmxn",
+          "selectionTypeId": "season34-type-mwx3cuk5-wai2fc",
           "fromParticipantId": "season34-영숙",
           "toParticipantId": "season34-영식",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-11-07T11:45:12.877Z"
+          "createdAt": "2026-11-26T05:07:46.997Z"
         },
         {
-          "id": "import-8-2-1-mw6c6rhp-ojqd0t",
+          "id": "import-7-7-1-mwx3cuk5-3kxkls",
+          "seasonNo": 34,
+          "day": 4,
+          "order": 6,
+          "selectionTypeId": "season34-type-mwx3cuk5-omlgxr",
+          "fromParticipantId": "season34-영숙",
+          "toParticipantId": "season34-영수",
+          "score": 0,
+          "actualDate": true,
+          "status": "confirmed",
+          "note": "",
+          "createdAt": "2026-11-26T05:07:46.997Z"
+        },
+        {
+          "id": "import-7-9-1-mwx3cuk5-fu70wf",
+          "seasonNo": 34,
+          "day": 4,
+          "order": 8,
+          "selectionTypeId": "season34-type-mwx3cuk5-vjl8q4",
+          "fromParticipantId": "season34-영숙",
+          "toParticipantId": "season34-영식",
+          "score": 3,
+          "actualDate": true,
+          "status": "confirmed",
+          "note": "",
+          "createdAt": "2026-11-26T05:07:46.997Z"
+        },
+        {
+          "id": "import-8-2-1-mwx3cuk5-0bdgdb",
           "seasonNo": 34,
           "day": 1,
           "order": 1,
-          "selectionTypeId": "season34-type-mw6c6rhp-dk9hq3",
+          "selectionTypeId": "season34-type-mwx3cuk5-41sl4a",
           "fromParticipantId": "season34-정숙",
           "toParticipantId": "season34-영호",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-11-07T11:45:12.877Z"
+          "createdAt": "2026-11-26T05:07:46.997Z"
         },
         {
-          "id": "import-8-3-1-mw6c6rhp-h4o7ag",
+          "id": "import-8-3-1-mwx3cuk5-f2bf9p",
           "seasonNo": 34,
           "day": 2,
           "order": 2,
-          "selectionTypeId": "season34-type-mw6c6rhp-zhsmxn",
+          "selectionTypeId": "season34-type-mwx3cuk5-wai2fc",
           "fromParticipantId": "season34-정숙",
           "toParticipantId": "season34-영호",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-11-07T11:45:12.877Z"
+          "createdAt": "2026-11-26T05:07:46.997Z"
         },
         {
-          "id": "import-8-6-1-mw6c6rhp-0jcdic",
+          "id": "import-8-6-1-mwx3cuk5-vtedx7",
           "seasonNo": 34,
           "day": 3,
           "order": 5,
-          "selectionTypeId": "season34-type-mw6c6rhp-zhsmxn",
+          "selectionTypeId": "season34-type-mwx3cuk5-wai2fc",
           "fromParticipantId": "season34-정숙",
           "toParticipantId": "season34-광수",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-11-07T11:45:12.877Z"
+          "createdAt": "2026-11-26T05:07:46.997Z"
         },
         {
-          "id": "import-9-2-1-mw6c6rhp-4b5aoc",
+          "id": "import-8-7-1-mwx3cuk5-zjhto3",
+          "seasonNo": 34,
+          "day": 4,
+          "order": 6,
+          "selectionTypeId": "season34-type-mwx3cuk5-omlgxr",
+          "fromParticipantId": "season34-정숙",
+          "toParticipantId": "season34-영철",
+          "score": 0,
+          "actualDate": true,
+          "status": "confirmed",
+          "note": "",
+          "createdAt": "2026-11-26T05:07:46.997Z"
+        },
+        {
+          "id": "import-9-2-1-mwx3cuk5-u4ptca",
           "seasonNo": 34,
           "day": 1,
           "order": 1,
-          "selectionTypeId": "season34-type-mw6c6rhp-dk9hq3",
+          "selectionTypeId": "season34-type-mwx3cuk5-41sl4a",
           "fromParticipantId": "season34-순자",
           "toParticipantId": "season34-영호",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-11-07T11:45:12.877Z"
+          "createdAt": "2026-11-26T05:07:46.997Z"
         },
         {
-          "id": "import-9-3-1-mw6c6rhp-fldbup",
+          "id": "import-9-3-1-mwx3cuk5-yb0gdq",
           "seasonNo": 34,
           "day": 2,
           "order": 2,
-          "selectionTypeId": "season34-type-mw6c6rhp-zhsmxn",
+          "selectionTypeId": "season34-type-mwx3cuk5-wai2fc",
           "fromParticipantId": "season34-순자",
           "toParticipantId": "season34-영호",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-11-07T11:45:12.877Z"
+          "createdAt": "2026-11-26T05:07:46.997Z"
         },
         {
-          "id": "import-9-6-1-mw6c6rhp-px67oa",
+          "id": "import-9-6-1-mwx3cuk5-zeav5v",
           "seasonNo": 34,
           "day": 3,
           "order": 5,
-          "selectionTypeId": "season34-type-mw6c6rhp-zhsmxn",
+          "selectionTypeId": "season34-type-mwx3cuk5-wai2fc",
           "fromParticipantId": "season34-순자",
           "toParticipantId": "season34-상철",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-11-07T11:45:12.877Z"
+          "createdAt": "2026-11-26T05:07:46.997Z"
         },
         {
-          "id": "import-10-2-1-mw6c6rhp-fs5ncq",
+          "id": "import-9-7-1-mwx3cuk5-543rnr",
+          "seasonNo": 34,
+          "day": 4,
+          "order": 6,
+          "selectionTypeId": "season34-type-mwx3cuk5-omlgxr",
+          "fromParticipantId": "season34-순자",
+          "toParticipantId": "season34-영호",
+          "score": 0,
+          "actualDate": true,
+          "status": "confirmed",
+          "note": "",
+          "createdAt": "2026-11-26T05:07:46.997Z"
+        },
+        {
+          "id": "import-10-2-1-mwx3cuk5-ko03mp",
           "seasonNo": 34,
           "day": 1,
           "order": 1,
-          "selectionTypeId": "season34-type-mw6c6rhp-dk9hq3",
+          "selectionTypeId": "season34-type-mwx3cuk5-41sl4a",
           "fromParticipantId": "season34-영자",
           "toParticipantId": "season34-영철",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-11-07T11:45:12.877Z"
+          "createdAt": "2026-11-26T05:07:46.997Z"
         },
         {
-          "id": "import-10-3-1-mw6c6rhp-kkcii8",
+          "id": "import-10-3-1-mwx3cuk5-6twam8",
           "seasonNo": 34,
           "day": 2,
           "order": 2,
-          "selectionTypeId": "season34-type-mw6c6rhp-zhsmxn",
+          "selectionTypeId": "season34-type-mwx3cuk5-wai2fc",
           "fromParticipantId": "season34-영자",
           "toParticipantId": "season34-영철",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-11-07T11:45:12.877Z"
+          "createdAt": "2026-11-26T05:07:46.997Z"
         },
         {
-          "id": "import-10-6-1-mw6c6rhp-g3a6ym",
+          "id": "import-10-6-1-mwx3cuk5-36rq24",
           "seasonNo": 34,
           "day": 3,
           "order": 5,
-          "selectionTypeId": "season34-type-mw6c6rhp-zhsmxn",
+          "selectionTypeId": "season34-type-mwx3cuk5-wai2fc",
           "fromParticipantId": "season34-영자",
           "toParticipantId": "season34-영호",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-11-07T11:45:12.877Z"
+          "createdAt": "2026-11-26T05:07:46.997Z"
         },
         {
-          "id": "import-11-2-1-mw6c6rhp-a1wm1f",
+          "id": "import-10-7-1-mwx3cuk5-s8jttw",
+          "seasonNo": 34,
+          "day": 4,
+          "order": 6,
+          "selectionTypeId": "season34-type-mwx3cuk5-omlgxr",
+          "fromParticipantId": "season34-영자",
+          "toParticipantId": "season34-상철",
+          "score": 0,
+          "actualDate": true,
+          "status": "confirmed",
+          "note": "",
+          "createdAt": "2026-11-26T05:07:46.997Z"
+        },
+        {
+          "id": "import-11-2-1-mwx3cuk5-44e8bu",
           "seasonNo": 34,
           "day": 1,
           "order": 1,
-          "selectionTypeId": "season34-type-mw6c6rhp-dk9hq3",
+          "selectionTypeId": "season34-type-mwx3cuk5-41sl4a",
           "fromParticipantId": "season34-옥순",
           "toParticipantId": "season34-상철",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-11-07T11:45:12.877Z"
+          "createdAt": "2026-11-26T05:07:46.997Z"
         },
         {
-          "id": "import-11-3-1-mw6c6rhp-qr180h",
+          "id": "import-11-3-1-mwx3cuk5-s1cw9t",
           "seasonNo": 34,
           "day": 2,
           "order": 2,
-          "selectionTypeId": "season34-type-mw6c6rhp-zhsmxn",
+          "selectionTypeId": "season34-type-mwx3cuk5-wai2fc",
           "fromParticipantId": "season34-옥순",
           "toParticipantId": "season34-상철",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-11-07T11:45:12.877Z"
+          "createdAt": "2026-11-26T05:07:46.997Z"
         },
         {
-          "id": "import-11-6-1-mw6c6rhp-syr3v7",
+          "id": "import-11-6-1-mwx3cuk5-pmx3i8",
           "seasonNo": 34,
           "day": 3,
           "order": 5,
-          "selectionTypeId": "season34-type-mw6c6rhp-zhsmxn",
+          "selectionTypeId": "season34-type-mwx3cuk5-wai2fc",
           "fromParticipantId": "season34-옥순",
           "toParticipantId": "season34-영호",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-11-07T11:45:12.877Z"
+          "createdAt": "2026-11-26T05:07:46.997Z"
         },
         {
-          "id": "import-12-2-1-mw6c6rhp-prmg39",
+          "id": "import-11-7-1-mwx3cuk5-50pivs",
+          "seasonNo": 34,
+          "day": 4,
+          "order": 6,
+          "selectionTypeId": "season34-type-mwx3cuk5-omlgxr",
+          "fromParticipantId": "season34-옥순",
+          "toParticipantId": "season34-광수",
+          "score": 0,
+          "actualDate": true,
+          "status": "confirmed",
+          "note": "",
+          "createdAt": "2026-11-26T05:07:46.997Z"
+        },
+        {
+          "id": "import-12-2-1-mwx3cuk5-68yi34",
           "seasonNo": 34,
           "day": 1,
           "order": 1,
-          "selectionTypeId": "season34-type-mw6c6rhp-dk9hq3",
+          "selectionTypeId": "season34-type-mwx3cuk5-41sl4a",
           "fromParticipantId": "season34-현숙",
           "toParticipantId": "season34-영수",
           "score": 1,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-11-07T11:45:12.877Z"
+          "createdAt": "2026-11-26T05:07:46.997Z"
         },
         {
-          "id": "import-12-3-1-mw6c6rhp-4fs322",
+          "id": "import-12-3-1-mwx3cuk5-cynylq",
           "seasonNo": 34,
           "day": 2,
           "order": 2,
-          "selectionTypeId": "season34-type-mw6c6rhp-zhsmxn",
+          "selectionTypeId": "season34-type-mwx3cuk5-wai2fc",
           "fromParticipantId": "season34-현숙",
           "toParticipantId": "season34-영철",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-11-07T11:45:12.877Z"
+          "createdAt": "2026-11-26T05:07:46.997Z"
         },
         {
-          "id": "import-12-6-1-mw6c6rhp-43wfqo",
+          "id": "import-12-6-1-mwx3cuk5-hkhylw",
           "seasonNo": 34,
           "day": 3,
           "order": 5,
-          "selectionTypeId": "season34-type-mw6c6rhp-zhsmxn",
+          "selectionTypeId": "season34-type-mwx3cuk5-wai2fc",
           "fromParticipantId": "season34-현숙",
           "toParticipantId": "season34-영호",
           "score": 2,
           "actualDate": true,
           "status": "confirmed",
           "note": "",
-          "createdAt": "2026-11-07T11:45:12.877Z"
+          "createdAt": "2026-11-26T05:07:46.997Z"
+        },
+        {
+          "id": "import-12-7-1-mwx3cuk5-ydinhn",
+          "seasonNo": 34,
+          "day": 4,
+          "order": 6,
+          "selectionTypeId": "season34-type-mwx3cuk5-omlgxr",
+          "fromParticipantId": "season34-현숙",
+          "toParticipantId": "season34-영식",
+          "score": 0,
+          "actualDate": true,
+          "status": "confirmed",
+          "note": "",
+          "createdAt": "2026-11-26T05:07:46.997Z"
+        },
+        {
+          "id": "import-12-9-1-mwx3cuk5-artk1h",
+          "seasonNo": 34,
+          "day": 4,
+          "order": 8,
+          "selectionTypeId": "season34-type-mwx3cuk5-vjl8q4",
+          "fromParticipantId": "season34-현숙",
+          "toParticipantId": "season34-영호",
+          "score": 3,
+          "actualDate": true,
+          "status": "confirmed",
+          "note": "",
+          "createdAt": "2026-11-26T05:07:46.997Z"
         }
       ],
       "finalCouples": [],
       "sources": [],
       "broadcastFinalCouples": [],
       "postShowRelationships": [],
-      "updatedAt": "2026-11-07T11:45:12.877Z",
+      "updatedAt": "2026-11-26T05:07:46.998Z",
       "inputColumns": [
         {
-          "key": "1-season34-type-mw6c6rhp-dk9hq3-1-true-0",
+          "key": "1-season34-type-mwx3cuk5-41sl4a-1-true-0",
           "day": 1,
-          "selectionTypeId": "season34-type-mw6c6rhp-dk9hq3",
+          "selectionTypeId": "season34-type-mwx3cuk5-41sl4a",
           "score": 1,
           "actualDate": true,
           "order": 1
         },
         {
-          "key": "2-season34-type-mw6c6rhp-zhsmxn-2-true-1",
+          "key": "2-season34-type-mwx3cuk5-wai2fc-2-true-1",
           "day": 2,
-          "selectionTypeId": "season34-type-mw6c6rhp-zhsmxn",
+          "selectionTypeId": "season34-type-mwx3cuk5-wai2fc",
           "score": 2,
           "actualDate": true,
           "order": 2
         },
         {
-          "key": "2-season34-type-mw6c6rhp-kb3sth-1-true-2",
+          "key": "2-season34-type-mwx3cuk5-p7zg6e-1-true-2",
           "day": 2,
-          "selectionTypeId": "season34-type-mw6c6rhp-kb3sth",
+          "selectionTypeId": "season34-type-mwx3cuk5-p7zg6e",
           "score": 1,
           "actualDate": true,
           "order": 3
         },
         {
-          "key": "3-season34-type-mw6c6rhp-v27wlq-2-true-3",
+          "key": "3-season34-type-mwx3cuk5-mod5fd-2-true-3",
           "day": 3,
-          "selectionTypeId": "season34-type-mw6c6rhp-v27wlq",
+          "selectionTypeId": "season34-type-mwx3cuk5-mod5fd",
           "score": 2,
           "actualDate": true,
           "order": 4
         },
         {
-          "key": "3-season34-type-mw6c6rhp-zhsmxn-2-true-4",
+          "key": "3-season34-type-mwx3cuk5-wai2fc-2-true-4",
           "day": 3,
-          "selectionTypeId": "season34-type-mw6c6rhp-zhsmxn",
+          "selectionTypeId": "season34-type-mwx3cuk5-wai2fc",
           "score": 2,
           "actualDate": true,
           "order": 5
+        },
+        {
+          "key": "4-season34-type-mwx3cuk5-omlgxr-0-true-5",
+          "day": 4,
+          "selectionTypeId": "season34-type-mwx3cuk5-omlgxr",
+          "score": 0,
+          "actualDate": true,
+          "order": 6
+        },
+        {
+          "key": "4-season34-type-mwx3cuk5-om2m1x-3-true-6",
+          "day": 4,
+          "selectionTypeId": "season34-type-mwx3cuk5-om2m1x",
+          "score": 3,
+          "actualDate": true,
+          "order": 7
+        },
+        {
+          "key": "4-season34-type-mwx3cuk5-vjl8q4-3-true-7",
+          "day": 4,
+          "selectionTypeId": "season34-type-mwx3cuk5-vjl8q4",
+          "score": 3,
+          "actualDate": true,
+          "order": 8
+        },
+        {
+          "key": "4-season34-type-mwx3cuk5-wuh6yx-3-true-8",
+          "day": 4,
+          "selectionTypeId": "season34-type-mwx3cuk5-wuh6yx",
+          "score": 3,
+          "actualDate": true,
+          "order": 9
         }
       ]
     }
